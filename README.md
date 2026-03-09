@@ -63,4 +63,4 @@ I'm a **Software Engineer** with a strong enthusiasm for technology and creative
 * **Email:** [cuongsc2411@gmail.com](mailto:cuongsc2411@gmail.com)
 * **Portfolio:** [cuongsc5.github.io](https://cuongsc5.github.io/)
 
-"Coding is my craft, creativity is my fuel." 🎤🔥
+"Coding is my craft, creativity is my fuel."
